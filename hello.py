@@ -1,2 +1,3 @@
-name="Pramod"
-print("Hello"+name)
+print("Hello Pramod")
+print("GM")
+
